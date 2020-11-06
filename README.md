@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there I'm Jose Vincent :wave:
+
+A Data science explorer, loves to do Data visualization | 🎓 Masters in Data Analytics [@IIITM-K](https://www.iiitmk.ac.in/) | Data Scientist Intern [@Ayruz Data Marketing](https://ayruz.com/) |
+
 
 <!--
-**jose-vincent/jose-vincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![jose's github stats](https://github-readme-stats.vercel.app/api?username=jose-vincent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+|![github stats](https://github-readme-stats.vercel.app/api?username=jose-vincent&count_private=true&show_icons=true&theme=chartreuse-dark)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vincent&count_private=true&theme=chartreuse-dark)|
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-vincent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
