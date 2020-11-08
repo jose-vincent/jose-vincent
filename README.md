@@ -1,7 +1,7 @@
-### Hi there I'm Jose Vincent :wave:
+### Hi there I'm Jose Vincent <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-A Data science explorer, loves to do Data visualization | 🎓 Masters in Data Analytics [@IIITM-K](https://www.iiitmk.ac.in/) | Data Scientist Intern [@Ayruz Data Marketing](https://ayruz.com/) |
 
+__**Computer Science Postgraduate from [IIITM-K](https://www.iiitmk.ac.in/), Trivandrum | My areas of interest are Data Analysis & Machine Learning. Loves to do Data Visualization | Data Scientist intern @ [Ayruz Data Marketing Pvt. LTD](https://ayruz.com/)**__ 
 
 <!--
 
