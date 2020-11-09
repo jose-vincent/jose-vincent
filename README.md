@@ -41,7 +41,7 @@
 [<img target="_blank" src="https://img.icons8.com/fluent/35/000000/twitter.png"/>](https://twitter.com/prodigalS0N)
 [<img target="_blank" src="https://img.icons8.com/cute-clipart/35/000000/instagram-new.png"/>](https://www.instagram.com/snaps_depot)
 [<img target="_blank" src="https://img.icons8.com/color/35/000000/discord-new-logo.png"/>](https://discord.gg/WHGhXvW)
-
+[<img target="_blank" src="https://img.icons8.com/fluent/35/000000/resume-website.png"/>](https://www.josevincent.xyz)
 ### GitHub Stats
 
 <a><img align="left"  height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=jose-vincent&show_icons=true&hide_border=true&layout=compact" /></a>
