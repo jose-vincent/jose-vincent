@@ -53,5 +53,8 @@
  <summary>👨‍💻 <b>Programming stats</b>: </summary>
 <br>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 </details>
