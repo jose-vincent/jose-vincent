@@ -35,13 +35,16 @@
 
 ### :mailbox: Where to find me : 
 
-[<img target="_blank" src="https://img.icons8.com/color/35/000000/gitlab.png"/>](https://www.gitlab.com/jose-vincent/)
-[<img src="https://img.icons8.com/fluent/35/000000/gmail--v2.png"/>](mailto:jose.da3@iiitmk.ac.in)
-[<img target="_blank" src="https://img.icons8.com/fluent/35/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/josevincent/)
-[<img target="_blank" src="https://img.icons8.com/fluent/35/000000/twitter.png"/>](https://twitter.com/prodigalS0N)
-[<img target="_blank" src="https://img.icons8.com/cute-clipart/35/000000/instagram-new.png"/>](https://www.instagram.com/snaps_depot)
-[<img target="_blank" src="https://img.icons8.com/color/35/000000/discord-new-logo.png"/>](https://discord.gg/WHGhXvW)
-[<img target="_blank" src="https://img.icons8.com/fluent/35/000000/resume-website.png"/>](https://www.josevincent.xyz)
+[<img target="_blank" src="https://img.icons8.com/color/35/000000/gitlab.png" style="margin:15px;float:left;width:35px;"/>](https://www.gitlab.com/jose-vincent/)
+[<img target="_blank" src="https://img.icons8.com/fluent/35/000000/gmail--v2.png" style="margin:15px;float:left;width:35px;"/>](mailto:jose.da3@iiitmk.ac.in)
+[<img target="_blank" src="https://img.icons8.com/fluent/35/000000/linkedin-circled.png" style="margin:15px;float:left;width:35px;"/>](https://www.linkedin.com/in/josevincent/)
+[<img target="_blank" src="https://img.icons8.com/fluent/35/000000/twitter.png" style="margin:15px;float:left;width:35px;"/>](https://twitter.com/prodigalS0N)
+[<img target="_blank" src="https://img.icons8.com/cute-clipart/35/000000/instagram-new.png" style="margin:15px;float:left;width:35px;"/>](https://www.instagram.com/snaps_depot)
+[<img target="_blank" src="https://img.icons8.com/color/35/000000/discord-new-logo.png" style="margin:15px;float:left;width:35px;"/>](https://discord.gg/WHGhXvW)
+[<img target="_blank" src="https://img.icons8.com/fluent/35/000000/resume-website.png" style="margin:15px;float:left;width:35px;"/>](https://www.josevincent.xyz)
+
+<br />
+
 ### GitHub Stats
 
 <a><img align="left"  height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=jose-vincent&show_icons=true&hide_border=true&layout=compact" /></a>
