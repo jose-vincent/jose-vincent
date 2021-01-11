@@ -1,6 +1,6 @@
 ### Hi there I'm Jose Vincent <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
- <font size="4.5">_Computer Science Postgraduate from [IIITM-K](https://www.iiitmk.ac.in/), Trivandrum_ **|** _Interested in Data Analysis & Machine Learning_ **|** _Loves to do Data Visualization_ **|** _Data Scientist intern @ [Ayruz Data Marketing](https://ayruz.com/)_</font>
+ <font size="4.5">_Computer Science Postgraduate from [IIITM-K](https://www.iiitmk.ac.in/), Trivandrum_ **|** _Interested in Data Analysis & Machine Learning_ **|** _Loves to do Data Visualization_ **|** _<del>Data Scientist Intern @ [Ayruz Data Marketing](https://ayruz.com/)</del>_</font> **|** _Data Analytics Intern @[IIITM-K](https://www.iiitmk.ac.in/)_
 
 <img align="right" height="250" width="375" alt="" src="https://i.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" />
 
