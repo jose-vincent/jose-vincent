@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning German 🤷‍♂️.
 - 🛠 &nbsp;I’m currently working on my pet projects.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2020 Goals: Get familiarised with Golang.
+- 🥅 2021 Goals: Get familiarised with Golang.
 - 💬 Ask me about anything.🤝
 - 🌐 Find me on my website [josevincent.xyz](https://www.josevincent.xyz) (WIP).
 - :yellow_heart: :bicyclist:  :book:  :soccer:  :headphones:  :notes:  ☕
